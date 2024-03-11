@@ -15,6 +15,11 @@
 * [How to Complete the Project](the-data-science-project/how-to-complete-the-project.md)
 * [Sources](the-data-science-project/sources.md)
 
+## Exploratory Data Analysis
+
+* [Setting up your Programming Environment](exploratory-data-analysis/setting-up-your-programming-environment.md)
+* [Discovering the Data](exploratory-data-analysis/discovering-the-data.md)
+
 ***
 
 * [Legal Disclaimer](legal-disclaimer.md)
