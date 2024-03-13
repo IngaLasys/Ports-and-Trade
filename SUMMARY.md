@@ -19,6 +19,13 @@
 
 * [Setting up your Programming Environment](exploratory-data-analysis/setting-up-your-programming-environment.md)
 * [Discovering the Data](exploratory-data-analysis/discovering-the-data.md)
+* [Data Cleaning & Transformation](exploratory-data-analysis/data-cleaning-and-transformation/README.md)
+  * [Cleaning Ports Variables](exploratory-data-analysis/data-cleaning-and-transformation/cleaning-ports-variables.md)
+  * [Cleaning Geographical Location Variables](exploratory-data-analysis/data-cleaning-and-transformation/cleaning-geographical-location-variables.md)
+* [Discovering Ports](exploratory-data-analysis/discovering-ports.md)
+* [Reshaping Data](exploratory-data-analysis/reshaping-data.md)
+* [Merging Data Sets](exploratory-data-analysis/merging-data-sets.md)
+* [Domestically Significant Ports](exploratory-data-analysis/domestically-significant-ports.md)
 
 ***
 
