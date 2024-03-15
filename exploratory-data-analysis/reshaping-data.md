@@ -6,7 +6,7 @@ Now we would like to be able to have a closer and more concise look at the indiv
 
 Use the reduction of observations and the number of unique observations of the variable vessel\_type as sanity checks for your reshaping.
 
-After reshaping, give use a short overview of your data in a table output, and your reasoning of your sanity check. Again, explain your thought process and extensively comment your code. Do not forget to update your responses to the "Discovering the Data" questions!
+After reshaping, give use a short overview of your data in a table output, and your reasoning of your sanity check. Again, explain your thought process and extensively comment your code. Do not forget to update your responses to the [Discovering the Data](discovering-the-data.md) questions!
 
 > <img src="../.gitbook/assets/R.png" alt="" data-size="line">\
 > For reshaping your data set, familiarize yourself with `pivot_wider()` and `pivot_longer()`, which one do you need to use?
