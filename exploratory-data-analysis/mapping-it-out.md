@@ -1,6 +1,6 @@
 # Mapping It Out
 
-Remeber that we wanted to keep longitude and latitude in our geographical\_location data set, and renamed the variables to be short and less messy? This will be useful now since we are going to plot all ports onto a map now!&#x20;
+Remember that we wanted to keep longitude and latitude in our geographical\_location data set, and renamed the variables to be short and less messy? This will be useful now since we are going to plot all ports onto a map now!&#x20;
 
 We will build the map using the `plotly` package. While you could have also plotted all previous graphs with plotly too, it is more cumbersome to do so, but it does an amazing job with maps.&#x20;
 
