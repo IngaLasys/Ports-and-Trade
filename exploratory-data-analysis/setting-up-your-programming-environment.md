@@ -9,6 +9,19 @@ Without the necessary tools, you cannot start any project. With your hands alone
 > In case you want some more information, you can also refer to this [written guide](https://rstudio-education.github.io/hopr/starting.html) by RStudio itself.
 >
 > If you struggle, we will help you with installing at the “Introduction to Coding” Workshop or at our first Coding Meetup.
+>
+>
+>
+> For the ones who already have installed R and RStudio before, please update both your R and RStudio versions, as well as packages. \
+> To update RStudio, download and install the latest version from the [Posit website](https://posit.co/download/rstudio-desktop)
+>
+> &#x20;To run R and package updates all in one, run the below code in R Gui (not in RStudio console!):
+>
+> ```r
+> install.packages("installr")
+> library(installr)
+> updateR() 
+> ```
 
 
 

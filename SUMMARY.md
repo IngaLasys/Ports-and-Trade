@@ -26,6 +26,8 @@
 * [Reshaping Data](exploratory-data-analysis/reshaping-data.md)
 * [Merging Data Sets](exploratory-data-analysis/merging-data-sets.md)
 * [Domestically Significant Ports](exploratory-data-analysis/domestically-significant-ports.md)
+* [Top Industries](exploratory-data-analysis/top-industries.md)
+* [Mapping It Out](exploratory-data-analysis/mapping-it-out.md)
 
 ***
 
