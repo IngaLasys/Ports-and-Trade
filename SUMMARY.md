@@ -14,6 +14,7 @@
 * [The Project](the-data-science-project/the-project.md)
 * [How to Complete the Project](the-data-science-project/how-to-complete-the-project.md)
 * [Sources](the-data-science-project/sources.md)
+* [Surprise Us!](the-data-science-project/surprise-us.md)
 
 ## Exploratory Data Analysis
 
