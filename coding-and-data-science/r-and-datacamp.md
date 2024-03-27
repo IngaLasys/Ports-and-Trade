@@ -1,20 +1,33 @@
 # R & DataCamp?
 
-### Data Science and R?
-
-`R` is a programming language developed by statisticians in the early 90s to calculate and visualize statistical results. A lot has happened since then, and by now, `R` is one of the most widely used programming languages in Data Science. You don't have to compile your 'R' code, but you can use it interactively and dynamically. Such an approach makes it possible to quickly gain basic knowledge about existing data and display it graphically.
-
-`R` offers much more than just programming. The language provides a complete ecosystem for solving statistical problems. A large number of packages and interfaces are available, which you can use to expand the basic functionality of the programming language to, say, create an interactive map of boats crossing oceans or cruising down rivers.
-
-#### RStudio Cloud
+**Setting Up your Programming Environment**
 
 Before you can use `R`, you usually have to install some separate programs locally on your computer. Typically, you first install a ["raw" version](https://rstudio-education.github.io/hopr/starting.html) of `R`. In theory, you can then start programming, but we would not recommend you to use R just like that. It is challenging to carry out an entire project with a "raw" version of R. That's why there is [RStudio](https://www.rstudio.com/products/rstudio/download/), a free Integrated Development Environment (IDE) for `R`, and it is much easier to use and nicer to look at!
 
-The IDE includes many essential features that simplify programming with `R`. Among other things, an auto-completion of your code, a friendly user interface, and many expansion options. Think of R as your boats's engine. And think of RStudio as your boats's dashboard that shows fancy metrics, has a radio and allows you to navigate stormy seas!
+If you have not set up your environment, follows the steps below for your respective language.
 
-Experience has shown that installing `R` and RStudio locally on your computer takes some effort and troubleshooting. Thus, try to download R as well as RStudio right before the first coding meetup! If you have any issues, do not hesitate to contact the product development team.
+> <img src="../.gitbook/assets/R.png" alt="" data-size="line"> \
+> We work with R and RStudio locally which requires a setup. If you have not installed it yet here is a [DataCamp tutorial](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu). \
+> In case you want some more information, you can also refer to this [written guide](https://rstudio-education.github.io/hopr/starting.html) by RStudio itself.
+>
+> If you struggle, we will help you with installing at the “Introduction to Coding” Workshop or at our first Coding Meetup. But do not hesitate to contact your mentor or the Product Development team any time.
+>
+>
+>
+> For the ones who already have installed R and RStudio before, please update both your R and RStudio versions, as well as packages. \
+> To update RStudio, download and install the latest version from the [Posit website](https://posit.co/download/rstudio-desktop)
+>
+> &#x20;To run R and package updates all in one, run the below code in R Gui (not in RStudio console!):
+>
+> ```r
+> install.packages("installr")
+> library(installr)
+> updateR() 
+> ```
 
-But for now you should focus on learning the "hard skills" of programming with the courses on DataCamp. That brings us to your curriculum in the next section!
+
+
+But for now you should focus on learning the "hard skills" of programming with the courses on DataCamp.&#x20;
 
 #### DataCamp Courses and Curriculum
 

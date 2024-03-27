@@ -18,7 +18,6 @@
 
 ## Exploratory Data Analysis
 
-* [Setting up your Programming Environment](exploratory-data-analysis/setting-up-your-programming-environment.md)
 * [Discovering the Data](exploratory-data-analysis/discovering-the-data.md)
 * [Data Cleaning & Transformation](exploratory-data-analysis/data-cleaning-and-transformation/README.md)
   * [Cleaning Ports Variables](exploratory-data-analysis/data-cleaning-and-transformation/cleaning-ports-variables.md)
@@ -29,7 +28,7 @@
 * [Domestically Significant Ports](exploratory-data-analysis/domestically-significant-ports.md)
 * [Top Industries](exploratory-data-analysis/top-industries.md)
 * [Mapping It Out](exploratory-data-analysis/mapping-it-out.md)
-* [Surprise Us!](exploratory-data-analysis/surprise-us.md)
+* [Surprise Us!](the-data-science-project/surprise-us.md)
 
 ***
 
