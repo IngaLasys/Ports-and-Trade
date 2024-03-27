@@ -11,10 +11,10 @@
 ## The Data Science Project
 
 * [The Project Guide](the-data-science-project/the-project-guide.md)
+* [Agenda](the-data-science-project/agenda.md)
 * [The Project](the-data-science-project/the-project.md)
 * [How to Complete the Project](the-data-science-project/how-to-complete-the-project.md)
 * [Sources](the-data-science-project/sources.md)
-* [Surprise Us!](the-data-science-project/surprise-us.md)
 
 ## Exploratory Data Analysis
 
@@ -29,6 +29,7 @@
 * [Domestically Significant Ports](exploratory-data-analysis/domestically-significant-ports.md)
 * [Top Industries](exploratory-data-analysis/top-industries.md)
 * [Mapping It Out](exploratory-data-analysis/mapping-it-out.md)
+* [Surprise Us!](exploratory-data-analysis/surprise-us.md)
 
 ***
 

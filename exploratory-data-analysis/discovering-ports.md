@@ -2,6 +2,10 @@
 
 Now that the shares in the port data are in a sensible format with which you can work, we want to know more about the significant ports. There are multiple variables you could use to complete this task, on one hand you could determine the local importance of a port by looking at the export & import shares for a country. On the other hand, you could examine global significance by looking at how many vessels are handled in a given port. We would like to examine the latter for now: Plot the top 15 significant ports and their top 1 industry, by using the total amount of vessels handled by the port.
 
+
+
+[Inga](https://app.gitbook.com/u/Q6VaJFDbxXRmtVekbdeo6Bvo6aw2 "mention")Any specific reason for including Top 1 Industry? Would just do the graph without specifying a fill variable
+
 <figure><img src="../.gitbook/assets/discovering ports.png" alt=""><figcaption></figcaption></figure>
 
 Just to give you an idea how to solve this problem: You would need to sort and rearrange your data before plotting it. Think about which variables you need, and how you would need to sort your data to answer the question at hand.

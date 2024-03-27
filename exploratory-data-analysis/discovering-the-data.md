@@ -1,12 +1,11 @@
 # Discovering the Data
 
-The first step in starting any project is loading the data. For the exploratry data analysis part (EDA), we will use [ports](https://1drv.ms/u/s!Ais4tuRZBkegg5gVAG0Yz7-GaV5wtg?e=ySaVSM) and [geographical location](https://1drv.ms/u/s!Ais4tuRZBkegg5gUs1Suv51j\_Wx\_9g?e=9D5Rry) data sets.
+The first step in starting any project is loading the data. For the exploratory data analysis part (EDA), we will use [ports](https://1drv.ms/u/s!Ais4tuRZBkegg5gVAG0Yz7-GaV5wtg?e=ySaVSM) and [geographical location](https://1drv.ms/u/s!Ais4tuRZBkegg5gUs1Suv51j\_Wx\_9g?e=9D5Rry) data sets.
 
 
 
 After downloading the data set into your working directory, import both data sets, geographical location and ports. Separately for each of the two data sets, describe the data sets. Some questions to guide you along:
 
-* [ ] What kind of data are we dealing with: time series, cross sectional, panel data?
 * [ ] How many variables does each data set have? (Code)
 * [ ] How many observations per variable do we have? (Code)
 * [ ] What do the variable names mean?

@@ -1,5 +1,9 @@
 # Setting up your Programming Environment
 
+TODO: This makes the full Coding and Data Science Section redundant. I would recommend deleting Coding and Data Science section and just take the parts with the datacamp courses and put them into the agenda and explain the general things about datacamp in the project guide. Right now there is way to much unnecessary background information in the coding and DS section that can be found with one quick search on google if someone is interested
+
+
+
 Without the necessary tools, you cannot start any project. With your hands alone, you will not be able to analyze data (or at least we do not recommend!). If you have not set up your environment, follows the steps below for your respective language.
 
 

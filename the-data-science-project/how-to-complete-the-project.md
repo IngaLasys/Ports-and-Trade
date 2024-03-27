@@ -5,6 +5,8 @@ Once you see the exercises of this semester's project you may wonder: How should
 In the following we will give you some tips and tricks on how to complete your project – take them as our expectations we have towards you.\
 After some general advice, there will also be some programming language specific information, so read this section carefully and refer back to it during the completion of the project.
 
+If there are any open questions feel free to ask your peers or your mentor.
+
 <details>
 
 <summary>Citing sources</summary>
@@ -48,7 +50,7 @@ If you generate new variables, we also recommend to you to always note down the 
 
 <summary>R: Solving the project in Markdown</summary>
 
-As we will explain to you in the first coding meetup, you will solve the questions in [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html). Specifically, you need to hand in the .Rmd file as well as the knit html file. Please **do not** complete your tasks in RScript, we only want to see RMardown. If you missed the coding meetup where we introduce RMarkdown or read this script before the first meetup and are curious to learn more now, klick on the above hyperlink.&#x20;
+As we will explain to you in the introduction workshop, you will solve the questions in [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html). Specifically, you need to hand in the .Rmd file as well as the knit html file. Please **do not** complete your tasks in RScript, we only want to see RMardown. If you missed the coding meetup where we introduce RMarkdown or read this script before the first meetup and are curious to learn more now, klick on the above hyperlink.&#x20;
 
 Your written code should be in code chunks, with the required comments. Please name each chunk according to what task you complete. In the chunk where you load all the libraries you may turn off any output, in all other chunks we want to see your output as well as any warnings or error messages as final output (thus, it is best to solve all exercises without error messages!).&#x20;
 
