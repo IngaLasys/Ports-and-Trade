@@ -4,7 +4,7 @@ Now we would like to merge ports and geographical\_location data. As you may hav
 In the first step, split the "fullname" variable into two variables (note, you should use the data set which you have transformed from long to wide). \
 After splitting that variable in two, merge with the geographical location data set.
 
-Advice: be careful with US ports and look at the formatting and warnings! ([Inga](https://app.gitbook.com/u/Q6VaJFDbxXRmtVekbdeo6Bvo6aw2 "mention")What do you mean with warnings? Explain it please, as in Python no warning may be shown)
+Advice: be careful with US ports and look at the formatting ! Some few ports may include states, while names of other ports do not. Outline the problem you find.
 
 > <img src="../.gitbook/assets/R.png" alt="" data-size="line">\
 > Use `dplyr`'s `seperate()` and `mutate()` for the relevant variables.\

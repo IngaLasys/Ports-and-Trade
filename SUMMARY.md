@@ -6,7 +6,6 @@
 
 * [R & DataCamp?](coding-and-data-science/r-and-datacamp.md)
 * [Python & DataCamp](coding-and-data-science/python-and-datacamp.md)
-* [Data Science Project](coding-and-data-science/data-science-project.md)
 
 ## The Data Science Project
 
@@ -30,6 +29,7 @@
 * [Mapping It Out](exploratory-data-analysis/mapping-it-out.md)
 * [Surprise Us!](the-data-science-project/surprise-us.md)
 
-***
+## Machine Learning: Economic Growth
 
-* [Legal Disclaimer](legal-disclaimer.md)
+* [Page 1](machine-learning-economic-growth/page-1.md)
+* [Legal Disclaimer](machine-learning-economic-growth/legal-disclaimer.md)
