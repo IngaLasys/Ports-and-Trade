@@ -29,7 +29,8 @@
 * [Mapping It Out](exploratory-data-analysis/mapping-it-out.md)
 * [Surprise Us!](the-data-science-project/surprise-us.md)
 
-## Machine Learning: Economic Growth
+## Application of Statistical Methods: Economic Growth
 
-* [Page 1](machine-learning-economic-growth/page-1.md)
-* [Legal Disclaimer](machine-learning-economic-growth/legal-disclaimer.md)
+* [Merging Data](application-of-statistical-methods-economic-growth/merging-data.md)
+* [Correlation: A Naive Approach](application-of-statistical-methods-economic-growth/correlation-a-naive-approach.md)
+* [Legal Disclaimer](application-of-statistical-methods-economic-growth/legal-disclaimer.md)
