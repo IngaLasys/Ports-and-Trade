@@ -31,6 +31,6 @@
 
 ## Application of Statistical Methods: Economic Growth
 
-* [Merging Data](application-of-statistical-methods-economic-growth/merging-data.md)
+* [Data](application-of-statistical-methods-economic-growth/data.md)
 * [Correlation: A Naive Approach](application-of-statistical-methods-economic-growth/correlation-a-naive-approach.md)
 * [Legal Disclaimer](application-of-statistical-methods-economic-growth/legal-disclaimer.md)
