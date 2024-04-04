@@ -8,7 +8,7 @@ In the following section we would like to model what effect economic growth. We 
 We have previously worked with just the  [ports](https://1drv.ms/u/s!Ais4tuRZBkegg5gVAG0Yz7-GaV5wtg?e=ySaVSM) and [geographical location](https://1drv.ms/u/s!Ais4tuRZBkegg5gUs1Suv51j\_Wx\_9g?e=9D5Rry) data sets. Keep the prepared data from the beginner part for later! We will use it later to enrich our models.\
 We now will have a look at some [UN data](https://data.un.org/). Thus, please be mindful of properly citing sources, and refer back to the [Sources Section](../the-data-science-project/sources.md) if you are unsure.
 
-Please [klick here](https://1drv.ms/f/s!Ais4tuRZBkegg5gTNPDOOZH9P8wuRQ?e=xkB2dW) to download the data we have prepared for you. Load this data and familiarize yourself with the variables and the concepts. Leave some remarks regarding what data you find and any issues you may come across! Remedy the latter, we especially recommend you to rename some variables.
+Please [klick here](https://1drv.ms/u/s!Ais4tuRZBkegg5dT0l7e1UIoiwqMOQ?e=QzYX6y) to download the data we have prepared for you. Load this data and familiarize yourself with the variables and the concepts. Leave some remarks regarding what data you find and any issues you may come across! Remedy the latter, we especially recommend you to rename some variables.
 
 Just for your information: you are looking at cross-sectional data for the year 2021.
 
