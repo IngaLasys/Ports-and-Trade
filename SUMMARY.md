@@ -33,4 +33,5 @@
 
 * [Data](application-of-statistical-methods-economic-growth/data.md)
 * [Correlation: A Naive Approach](application-of-statistical-methods-economic-growth/correlation-a-naive-approach.md)
+* [Building Linear Models](application-of-statistical-methods-economic-growth/building-linear-models.md)
 * [Legal Disclaimer](application-of-statistical-methods-economic-growth/legal-disclaimer.md)
